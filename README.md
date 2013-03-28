@@ -1,4 +1,4 @@
 _framework
 ==========
 
-The open source WordPress framework from us, Invisible Hat Foundry!
+The open source WordPress framework from Invisible Hat Foundry
